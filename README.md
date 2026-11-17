@@ -1,3 +1,5 @@
+> **Archived on 2026-11: a 2019 learning exercise, not maintained.**
+
 # BlockchainJS
 Simple implementation of JS Blockchain
 
